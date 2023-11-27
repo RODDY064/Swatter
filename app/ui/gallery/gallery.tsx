@@ -5,7 +5,7 @@ export default function Gallery() {
   return (
     <div className="w-full min-h-screen flex items-center justify-center pb-20">
       <div
-        className="w-[94%] md:w-[60%] h-[90vh] md:h-[72rem]  rounded-[20px] relative
+        className="w-[94%] md:w-[60%] h-[90vh] md:h-[80rem]  rounded-[20px] relative
          flex justify-end overflow-hidden  mt-[10rem] md:mt-[12rem]" id="gallery" >
         <div className="w-full h-full absolute flex justify-between">
           <div className="w-[65%] h-full bg-gradient-to-b from-white_blue to-cream_blue">

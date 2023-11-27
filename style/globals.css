@@ -40,10 +40,14 @@ body::-webkit-scrollbar-thumb{
     margin-top: 60px;
   }
 
-  #gallery{
-    height: 120vh;
-  }
  
+ 
+}
+
+@media screen  and (max-width: 420px) and (max-height: 750px){
+  #gallery{
+     height: 110vh;
+  }
 }
 
 @media screen and  (max-width: 767px){
