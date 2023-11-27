@@ -39,6 +39,10 @@ body::-webkit-scrollbar-thumb{
   #section{
     margin-top: 60px;
   }
+
+  #gallery{
+    height: 120vh;
+  }
  
 }
 
